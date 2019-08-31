@@ -1,2 +1,2 @@
 # JDBC-DEMO
->mysql-jdbc实例，简单封装DAO数据操作层覆盖mysql数据库的CURD等操作，还扩展了sql注入Test类，此外还使用mysql的innodb引擎(mysql默认的myisam引擎不支持外键，不支持事务)实现mysql事务处理，静态sql和预处理sql语句的实例test类、批处理、javajdbc调用存储过程、数据库连接池、配置文件操作连接池、封装了DBUitls工具类。
+>mysql-jdbc实例，简单封装DAO数据操作层覆盖mysql数据库的CURD等操作，还扩展了sql注入Test类，此外还使用mysql的innodb引擎(mysql默认的myisam引擎不支持外键，不支持事务)实现mysql事务处理，静态sql和预处理sql语句的实例test类、批处理、javajdbc调用存储过程、数据库连接池、配置文件操作连接池、封装了DBUitls工具类。项目包含了各个demo单元测试类
